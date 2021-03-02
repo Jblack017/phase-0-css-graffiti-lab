@@ -1,1 +1,19 @@
-/* write your override styles here */
+.slick.wicked {
+    display: none;
+  }
+#wall div[class^=tag] {
+    display: none;
+  }
+
+#wall div[class^=parent] {
+    display: none;
+  }
+
+#wall div#tag-2 {
+    display: none;
+  }
+
+div#wall #tag-3.slick.wicked { 
+    display: none;
+  }
+  
